@@ -1,2 +1,2 @@
 all:
-	g++ -Wall -g -O0 dow.cpp -o pds
+	g++ -Wall -g dow.cpp -o pds
